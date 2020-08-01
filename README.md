@@ -1,6 +1,6 @@
 # Aircraft-Image-Classification-Models
 
-This repository contains a preprocessing code, Convolutional Neural Network, and a Logistic Regression Model for classification of aircraft images. The dataset contains six classes of aircrafts. 
+This repository contains a preprocessing code, Convolutional Neural Network, and a Logistic Regression Model for classification of aircraft images. These models are created using only numpy library. The dataset contains six classes of aircrafts. 
 
 For preprocessing, see the descriptions in Image_Process.ipynb .
 
